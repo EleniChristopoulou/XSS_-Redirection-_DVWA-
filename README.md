@@ -21,7 +21,11 @@ Since I submited the value `someone`, I receive the respected query, within the 
   <p align="center"><img width="500" height="190" alt="image" src="https://github.com/user-attachments/assets/8a560a27-b7df-4590-8746-8e5ff575c447" /></p>
 
 ## Step 4
-  On the `Repeater` tab, we spot 2 tabs. I first looked for the one that contains the `someone` value. I go ahead and rename my tab to `input`. <br>
-  <p align="center"><img width="964" height="501" alt="image" src="https://github.com/user-attachments/assets/96b3c8f5-7122-46cb-a006-e1acb12b0e1e" /></p>
+  On the `Repeater` tab, we spot 2 tabs. I first looked for the one that contains the `someone` value. I go ahead and rename my tab to `input` and the second one that was left I rename it as `output`. <br>
+  
+  <p align="center"><img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/96b3c8f5-7122-46cb-a006-e1acb12b0e1e" /></p>
+
+  
+  
 
 
