@@ -43,7 +43,16 @@ Since I submited the value `someone`, I receive the respected query, within the 
   Then we click right next to the `Send` button > `Send group in sequnce (seperate connections)`>`New tab group`.<br>
   
 ## Step 7
-  Lastly we press the button to sned the selected request. Just as it is depicted in the bellow screenshot.<br>
+  Lastly we press the button to send the selected request. Just as it is depicted in the bellow screenshot.<br>
+  
+  <img width="948" height="474" alt="image" src="https://github.com/user-attachments/assets/700f50ec-a885-4b6f-adc3-394e6fe6755f" />
+
+  ## Step 8
+  Now we have sent to the server our cross site scripting, what's left is to view our results.<br>
+  Heading to the `Output` tab, we right click onto the tab and select Show response in browser.<br>
+
+  
+  We then copy the link that is given to us, and head to the browser open a new tab and paste our link to view our results.<br>
   
   <img width="948" height="474" alt="image" src="https://github.com/user-attachments/assets/700f50ec-a885-4b6f-adc3-394e6fe6755f" />
 
