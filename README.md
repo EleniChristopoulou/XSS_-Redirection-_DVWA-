@@ -68,6 +68,18 @@ We interested in two logs, the type `POST` which is our request to display our i
   ```
   and then head to `XSS (Stored)` tab, we get redirected to google.
 
+## Step 9 
+
+Other commands you could try:
+
+<div align="center">
+
+| Num | Command | Description |
+| :-----------: | :----------: | :----------: |
+| 1 | `<script> alert('Hello World')</script>` | For proof of concept reasons |
+
+</div>
+
 
 
   
