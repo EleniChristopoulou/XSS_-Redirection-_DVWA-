@@ -47,7 +47,8 @@ We interested in two logs, the type `POST` which is our request to display our i
 ## Step 7
   Lastly we press the button to send the selected request. Just as it is depicted in the bellow screenshot.<br>
   
-  <img width="948" height="474" alt="image" src="https://github.com/user-attachments/assets/700f50ec-a885-4b6f-adc3-394e6fe6755f" />
+  <p align="center"><img width="942" height="457" alt="image" src="https://github.com/user-attachments/assets/d0991f25-49e1-44bf-a0cd-841f8f2be995" /></p>
+
 
   ## Step 8
   Now we have sent to the server our cross site scripting, what's left is to view our results.<br>
