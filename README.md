@@ -39,7 +39,8 @@ We interested in two logs, the type `POST` which is our request to display our i
   ```
 
 
-<p align="center"><img width="947" height="474" alt="image" src="https://github.com/user-attachments/assets/afd467ee-0624-4a4d-aae2-04acdfb567d7" /></p>
+<p align="center"><img width="921" height="560" alt="image" src="https://github.com/user-attachments/assets/270fdc95-1846-4d02-9b37-9437f10405ca" />
+</p>
 
   Then we click right next to the `Send` button > `Send group in sequnce (seperate connections)`>`New tab group`.<br>
   
