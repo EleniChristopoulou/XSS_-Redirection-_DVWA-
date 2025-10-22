@@ -7,8 +7,9 @@
  ## Step 2
   Now it is the time where we interact with site in order to discover actual functionality.<br>
   It is important to pay attention on the input and the output.<br>
-  Head to `XSS (Reflected)` tab.
+  Head to `XSS (Reflected)` tab. <br>
+  So let's try out the value `someone`. We notice that we can enter any type of string as input.<br>  
+  
 <p align="center"> <img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/b76b563a-5b3d-4539-b25c-dab70092e5d9" />
 </p>
 
-  So let's try out the value `someone`. We notice that wecan enter any type of string as input<br>
