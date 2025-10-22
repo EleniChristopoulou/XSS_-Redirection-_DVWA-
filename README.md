@@ -56,11 +56,11 @@ We interested in two logs, the type `POST` which is our request to display our i
 
   We then copy the link that is given to us, and head to the browser open a new tab and paste our link to view our results.<br>
   
-  <img width="948" height="474" alt="image" src="https://github.com/user-attachments/assets/700f50ec-a885-4b6f-adc3-394e6fe6755f" />
+  <p align="center"><img width="948" height="474" alt="image" src="https://github.com/user-attachments/assets/700f50ec-a885-4b6f-adc3-394e6fe6755f" /></p>
 
   Our result is well... google!<br>
 
-  <img width="480" height="350" alt="image" src="https://github.com/user-attachments/assets/f4d8c421-7cdd-465e-83e3-8469e2258a4d" />
+  <p align="center"><img width="480" height="350" alt="image" src="https://github.com/user-attachments/assets/f4d8c421-7cdd-465e-83e3-8469e2258a4d" /></p>
 
   Even if we head back to our intial site:<br>
   ```
