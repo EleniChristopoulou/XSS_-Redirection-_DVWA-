@@ -26,7 +26,11 @@ Since I submited the value `someone`, I receive the respected query, within the 
   <p align="center"><img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/96b3c8f5-7122-46cb-a006-e1acb12b0e1e" /></p>
 
 ## Step 5
-  Now I right click on my now `Output` tab, `Add to group`>`New tab group`
+  Now I right click on my now `Output` tab, `Add to group`>`New tab group`.<br>
+  
+  <p align="center"><img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/2b03af5f-b148-440f-81d8-cc71d8fa8fbe" /></p>
+  
+
   
   
 
