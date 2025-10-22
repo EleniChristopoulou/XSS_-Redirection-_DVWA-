@@ -30,6 +30,19 @@ Since I submited the value `someone`, I receive the respected query, within the 
   
   <p align="center"><img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/2b03af5f-b148-440f-81d8-cc71d8fa8fbe" /></p>
   
+## Step 6
+  Heading back to our `Input` tab, we select the `somone` value inside the request and replace it with the following:<br>
+
+  ```
+  <script> window.location.href = "https://www.google.com"; </script>
+  ```
+
+
+<p align="center"><img width="947" height="474" alt="image" src="https://github.com/user-attachments/assets/afd467ee-0624-4a4d-aae2-04acdfb567d7" /></p>
+
+  Then we click right next to the `Send` button > `Send group in sequnce (seperate connections)`>`New tab group`.<br>
+
+  
 
   
   
