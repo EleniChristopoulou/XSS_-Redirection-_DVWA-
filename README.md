@@ -8,17 +8,17 @@
   Now it is the time where we interact with site in order to discover actual functionality.<br>
   It is important to pay attention on the input and the output.<br>
   
-  Head to `XSS (Reflected)` tab. <br>
-  So let's try out the value `someone`. We notice that we can enter any type of string as input.<br>  
+  Head to `XSS (Stored)` tab. <br>
+  So let's try out the value `someone` for name and `someone mess` as a message. We notice that we can enter any type of string as input.<br>  
   
-<p align="center"> <img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/b76b563a-5b3d-4539-b25c-dab70092e5d9" />
-</p>
+<p align="center"> <img width="490" height="289" alt="image" src="https://github.com/user-attachments/assets/080a7fb8-bfb6-4f07-8064-be34143943c6" /></p>
 
 ## Step 3
-  Now we are ready to initiate some logs. Back to our DVWA site on the `XSS (Reflected)` tab we submit any type of value, our goal is just to see the log.
+  Now we are ready to initiate some logs. Back to our DVWA site on the `XSS (Stored)` tab we submit any type of value, our goal is just to see the log.
 
-Since I submited the value `someone`, I receive the respected query, within the id hold the value 1. By following the steps depicted within the picture, we have sent our log to the repeater tab in Burp. There will be able to forward and modify the request.
-  <p align="center"><img width="500" height="190" alt="image" src="https://github.com/user-attachments/assets/8a560a27-b7df-4590-8746-8e5ff575c447" /></p>
+We interested in two logs, the type `POST` which is our request to display our input & `GET` which is the display of our data from server
+  <p align="center"> <img width="963" height="267" alt="image" src="https://github.com/user-attachments/assets/f88c6ccd-c8fa-47a8-94e9-cb403832c055" />/
+
 
 ## Step 4
   On the `Repeater` tab, we spot 2 tabs. I first looked for the one that contains the `someone` value. I go ahead and rename my tab to `Input` and the second one that was left I rename it as `Output`. <br>
