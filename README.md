@@ -41,6 +41,12 @@ Since I submited the value `someone`, I receive the respected query, within the 
 <p align="center"><img width="947" height="474" alt="image" src="https://github.com/user-attachments/assets/afd467ee-0624-4a4d-aae2-04acdfb567d7" /></p>
 
   Then we click right next to the `Send` button > `Send group in sequnce (seperate connections)`>`New tab group`.<br>
+  
+## Step 7
+  Lastly we press the button to sned the selected request. Just as it is depicted in the bellow screenshot.<br>
+  
+  <img width="948" height="474" alt="image" src="https://github.com/user-attachments/assets/700f50ec-a885-4b6f-adc3-394e6fe6755f" />
+
 
   
 
