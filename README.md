@@ -23,7 +23,8 @@ We interested in two logs, the type `POST` which is our request to display our i
 ## Step 4
   On the `Repeater` tab, we spot 2 tabs. I first looked for the one that contains the `someone` value. I go ahead and rename my tab to `Input` and the second one that was left I rename it as `Output`. <br>
   
-  <p align="center"><img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/96b3c8f5-7122-46cb-a006-e1acb12b0e1e" /></p>
+  <p align="center"><img width="934" height="529" alt="image" src="https://github.com/user-attachments/assets/7db18d0f-da46-49ea-a49b-a959f2fed17e" />
+</p>
 
 ## Step 5
   Now I right click on my now `Output` tab, `Add to group`>`New tab group`.<br>
@@ -31,7 +32,7 @@ We interested in two logs, the type `POST` which is our request to display our i
   <p align="center"><img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/2b03af5f-b148-440f-81d8-cc71d8fa8fbe" /></p>
   
 ## Step 6
-  Heading back to our `Input` tab, we select the `somone` value inside the request and replace it with the following:<br>
+  Heading back to our `Input` tab, we select the `somone \r \n` value inside the request and replace it with the following:<br>
 
   ```
   <script> window.location.href = "https://www.google.com"; </script>
