@@ -54,10 +54,20 @@ We interested in two logs, the type `POST` which is our request to display our i
   Now we have sent to the server our cross site scripting, what's left is to view our results.<br>
   Heading to the `Output` tab, we right click onto the tab and select Show response in browser.<br>
 
-  
   We then copy the link that is given to us, and head to the browser open a new tab and paste our link to view our results.<br>
   
   <img width="948" height="474" alt="image" src="https://github.com/user-attachments/assets/700f50ec-a885-4b6f-adc3-394e6fe6755f" />
+
+  Our result is well... google!<br>
+
+  <img width="480" height="350" alt="image" src="https://github.com/user-attachments/assets/f4d8c421-7cdd-465e-83e3-8469e2258a4d" />
+
+  Even if we head back to our intial site:<br>
+  ```
+  http://localhost/
+  ```
+  and then head to `XSS (Stored)` tab, we get redirected to google.
+
 
 
   
