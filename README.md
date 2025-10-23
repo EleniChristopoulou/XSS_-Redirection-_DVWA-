@@ -79,6 +79,7 @@ Other commands you could try:
 | 1 | `<script> window.location.href = "https://www.google.com"; </script>` | Redirection |
 | 2 | `<script> alert('Hello World')</script>` | For proof of concept reasons |
 | 3 | `<img src="https://i.pinimg.com/736x/0f/5d/6a/0f5d6a89dc7d8c73d025c331ef0c6a4f.jpg" onerror=alert('XSS') style="width:200px; height:auto; display:block; border:1px solid #ddd;">` | Display photo |
+| 4 | `<a href="javascript:alert('XSS')">Click Me</a>` | Click me alert button |
 
 </div>
 
